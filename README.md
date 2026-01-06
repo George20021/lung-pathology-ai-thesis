@@ -11,12 +11,12 @@ This thesis presents a multi-model Artificial Intelligence (AI) system designed 
 
 The system consists of seven independent machine learning models, each trained to recognize a specific condition:
 
-**Pneumonia** (96% Accuracy) 
-**Cardiomegaly** (86% Accuracy) 
-**Emphysema** (84% Accuracy) 
-**Pneumothorax** (82% Accuracy) 
-**Mass** (76% Accuracy) 
-**Atelectasis** (72% Accuracy) 
+**Pneumonia** (96% Accuracy), 
+**Cardiomegaly** (86% Accuracy), 
+**Emphysema** (84% Accuracy), 
+**Pneumothorax** (82% Accuracy), 
+**Mass** (76% Accuracy), 
+**Atelectasis** (72% Accuracy), 
 **Nodule** (68% Accuracy) 
 
 
