@@ -4,7 +4,7 @@ University of Thessaly | Department of Computer Science & Telecommunications **T
 
 **Advisor:** Theofilos Chrysikos 
 
-## 📋 Project Overview
+##  Project Overview
 
 This thesis presents a multi-model Artificial Intelligence (AI) system designed for the automated detection of pulmonary pathologies through **Chest X-ray** analysis. Utilizing a dataset of over **112,000 images** (NIH Chest X-ray Dataset), the system identifies seven distinct conditions with high accuracy.
 
