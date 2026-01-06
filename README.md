@@ -27,6 +27,7 @@ The system consists of seven independent machine learning models, each trained t
 Instead of a single architecture, each disease model utilizes a **fusion of two pre-trained CNNs** to maximize feature extraction:
 
 **MobileNetV2:** For efficient, lightweight feature processing.
+
 **ResNet50:** For deep residual learning and complex pattern recognition.
 
 
@@ -47,8 +48,11 @@ Instead of a single architecture, each disease model utilizes a **fusion of two 
 
 
 **Deep Learning:** TensorFlow 2.12, Keras API 
+
 **Inference & GUI:** Python 3, PyQt5 
+
 **Image Processing:** OpenCV, PIL, and **Grad-CAM** for visual explainability 
+
 **Environment:** Ubuntu Linux VM with **CUDA 11.8/cuDNN 8.6** for GPU acceleration 
 
 
