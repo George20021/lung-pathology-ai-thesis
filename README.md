@@ -40,7 +40,13 @@ Instead of a single architecture, each disease model utilizes a **fusion of two 
 1.  **Head Training:** Pre-trained layers are frozen while the new classification head is trained.
 2.  **Fine-Tuning:** All layers are unfrozen for detailed optimization at a lower learning rate ().
 
-**Optimizations:** Implemented **Mixed Precision Training** for  speed, **Class Weighting** to handle dataset imbalance, and **Early Stopping** to prevent overfitting.
+**Optimizations:** 
+
+**Mixed Precision Training** for  speed
+
+**Class Weighting** to handle dataset imbalance
+
+**Early Stopping** to prevent overfitting.
 
 
 
