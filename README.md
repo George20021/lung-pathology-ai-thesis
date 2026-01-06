@@ -72,6 +72,7 @@ This provides heatmap visualizations that highlight the specific areas of the X-
 The source code and specific training scripts are **restricted** for academic and intellectual property reasons.
 
 **Contact for Technical Walkthrough:**
+
 **Author:** Georgios Papadopoulos 
 
 
