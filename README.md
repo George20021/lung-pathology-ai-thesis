@@ -2,7 +2,6 @@
 
 University of Thessaly | Department of Computer Science & Telecommunications **Thesis Grade:** 10/10 (Honors) 
 
-**Advisor:** Theofilos Chrysikos 
 
 ##  Project Overview
 
